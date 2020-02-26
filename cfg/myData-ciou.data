@@ -1,0 +1,6 @@
+classes = 2
+train  = data/myData/myData_train.txt
+valid = data/myData/myData_val.txt
+names  = data/myData.names
+backup = backup
+prefix = ciou
