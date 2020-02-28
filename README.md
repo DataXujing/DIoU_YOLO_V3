@@ -2,7 +2,9 @@
 
 ## 提供整理的开源口罩佩戴检测数据集的下载！！！
 
-## 检测效果**好于**[AIZOO](https://aizoo.com/face-mask-detection.html)<https://aizoo.com/face-mask-detection.html>
+## 检测效果**好于**[AIZOO](https://aizoo.com/face-mask-detection.html) <https://aizoo.com/face-mask-detection.html>
+
+## 检测效果 **好于**[百度开源口罩检测(https://www.paddlepaddle.org.cn/hub/scene/maskdetect) <https://www.paddlepaddle.org.cn/hub/scene/maskdetect>
 
 > YOLOv3 with DIoU and CIoU losses implemented in Darknet
 
