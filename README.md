@@ -3,8 +3,7 @@
 ## 提供整理的开源口罩佩戴检测数据集的下载！！！
 
 + 预训练的模型： <https://github.com/DataXujing/DIoU_YOLO_V3/releases/tag/Mask_model> 可下载在网上找图像或视频测试！
-+ 训练数据下载地址：百度云盘 链接：<https://pan.baidu.com/s/1zr0wEPHrDk6VaSj_OQYCJg>  提取码：56cc
-
++ 训练数据下载地址：百度云盘链接： <https://pan.baidu.com/s/1J8SwsZ9F5XFbUlHpEVQK3A>  提取码：h9sl
 
 ## 检测效果 **好于**[AIZOO](https://aizoo.com/face-mask-detection.html) <https://aizoo.com/face-mask-detection.html>
 
